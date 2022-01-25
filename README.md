@@ -1,4 +1,4 @@
-### <img alt"handwave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50" /> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230DA47F&size=30&duration=3800&vCenter=true&width=650&height=40&lines=Welcome+to+Anthony's+Github!)](https://git.io/typing-svg)
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50" alt="handwave"/> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230DA47F&size=30&duration=3800&vCenter=true&width=650&height=40&lines=Welcome+to+Anthony's+Github!)](https://git.io/typing-svg)
 
 <hr>
 
@@ -22,9 +22,8 @@ Be Humble, Stay Curious
 
 ### Connect with me:
 
-<img align="left", alt="linkedin" src=">
-
 <img alt= "linkedin" src="./images/linkedin.svg" width="25">
+<img alt="twitter" src="./images/twitter.svg" width="25">
 
 <br>
 
