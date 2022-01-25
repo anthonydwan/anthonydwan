@@ -1,8 +1,8 @@
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40" alt="handwave"/> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230DA47F&size=26&duration=3800&vCenter=true&width=550&height=40&lines=Welcome+to+Anthony's+Github!)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230DA47F&size=28&duration=3800&vCenter=true&width=550&height=40&lines=Welcome+to+Anthony's+Github!)](https://git.io/typing-svg)
 
 <hr>
 
-### Nice to meet you, I'm Anthony
+### Nice to meet you, I'm Anthony <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" height="28" alt="handwave" />
 
 - I'm currently learning React
 - I'm currently finishing my Master of Data Science @ USyd
