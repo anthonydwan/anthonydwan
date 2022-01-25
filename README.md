@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50" alt="handwave"/> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230DA47F&size=30&duration=3800&vCenter=true&width=650&height=40&lines=Welcome+to+Anthony's+Github!)](https://git.io/typing-svg)
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40" alt="handwave"/> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230DA47F&size=26&duration=3800&vCenter=true&width=550&height=40&lines=Welcome+to+Anthony's+Github!)](https://git.io/typing-svg)
 
 <hr>
 
