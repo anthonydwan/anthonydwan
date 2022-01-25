@@ -2,12 +2,12 @@
 
 <hr>
 
-### Nice to meet you, I'm Anthony Wan
+### Nice to meet you, I'm Anthony
 
 - I'm currently learning React
 - I'm currently finishing my Master of Data Science @ USyd
 - Open to On-site (Sydney) and Remote positions
-- :fireworks: 2022 Goals
+- 2022 Goals
 - Become Full-Stack
 - Start contributing to Open Source
 - Launch one large project
@@ -22,13 +22,31 @@ Be Humble, Stay Curious
 
 ### Connect with me:
 
-<img alt= "linkedin" src="./images/linkedin.svg" width="25">
+<img alt= "linkedin" src="./images/linkedin.svg" width="25">&nbsp;&nbsp;
 <img alt="twitter" src="./images/twitter.svg" width="25">
 
-<br>
+<hr>
 
 ### Lanugage and Tools:
 
-##### Web Dev
+Web Dev:
 
-##### Machine Learning
+<img alt= "vsc" src="./images/Web/1.vsc.svg" width="25">&nbsp;&nbsp;
+<img alt="html5" src="./images/Web/2.html5.svg" width="25">&nbsp;&nbsp;
+<img alt= "css3" src="./images/Web/3.css3.svg" width="25">&nbsp;&nbsp;
+<img alt="javscript" src="./images/Web/4.javascript.svg" width="25">&nbsp;&nbsp;
+<img alt= "vsc" src="./images/Web/5.react.svg" width="25">&nbsp;&nbsp;
+<img alt= "vsc" src="./images/Web/6.git.svg" width="25">&nbsp;&nbsp;
+<img alt="html5" src="./images/Web/7.npm.svg" width="25">&nbsp;&nbsp;
+<img alt= "vsc" src="./images/Web/8.jest.svg" width="25" height="25">&nbsp;&nbsp;
+
+Machine Learning | Data Science:
+
+<img alt= "vsc" src="./images/ML/1.jupyter.svg" width="25">&nbsp;&nbsp;
+<img alt= "vsc" src="./images/ML/2.python.svg" width="25">&nbsp;&nbsp;
+<img alt= "vsc" src="./images/ML/3.numpy.svg" width="25">&nbsp;&nbsp;
+<img alt= "vsc" src="./images/ML/4.scikitlearn.svg" width="25">&nbsp;&nbsp;
+<img alt= "vsc" src="./images/ML/5.scipy.svg" width="25">&nbsp;&nbsp;
+<img alt= "vsc" src="./images/ML/6.postgresql.svg" width="25">&nbsp;&nbsp;
+<img alt= "vsc" src="./images/ML/7.tensorflow.svg" width="25">&nbsp;&nbsp;
+<img alt= "vsc" src="./images/ML/8.pytorch.svg" width="25">&nbsp;&nbsp;
