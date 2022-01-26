@@ -44,7 +44,8 @@ Web Dev:
 Machine Learning | Data Science:
 
 <img alt= "jupyter" src="./images/ML/1.jupyter.svg" width="25">&nbsp;&nbsp;
-<img alt= "python" src="./images/ML/2.python.svg" width="25">&nbsp;&nbsp;
+<img alt= "pycharm" src="./images/ML/2.pycharm.svg" width="25">&nbsp;&nbsp;
+<img alt= "python" src="./images/ML/2b.python.svg" width="25">&nbsp;&nbsp;
 <img alt= "numpy" src="./images/ML/3.numpy.svg" width="25">&nbsp;&nbsp;
 <img alt= "scikitlearn" src="./images/ML/4.scikitlearn.svg" width="25">&nbsp;&nbsp;
 <img alt= "scipy" src="./images/ML/5.scipy.svg" width="25">&nbsp;&nbsp;
