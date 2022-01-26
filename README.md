@@ -35,18 +35,19 @@ Web Dev:
 <img alt="html5" src="./images/Web/2.html5.svg" width="25">&nbsp;&nbsp;
 <img alt= "css3" src="./images/Web/3.css3.svg" width="25">&nbsp;&nbsp;
 <img alt="javscript" src="./images/Web/4.javascript.svg" width="25">&nbsp;&nbsp;
-<img alt= "vsc" src="./images/Web/5.react.svg" width="25">&nbsp;&nbsp;
-<img alt= "vsc" src="./images/Web/6.git.svg" width="25">&nbsp;&nbsp;
-<img alt="html5" src="./images/Web/7.npm.svg" width="25">&nbsp;&nbsp;
-<img alt= "vsc" src="./images/Web/8.jest.svg" width="25" height="25">&nbsp;&nbsp;
+<img alt= "react" src="./images/Web/5.react.svg" width="25">&nbsp;&nbsp;
+<img alt= "git" src="./images/Web/6.git.svg" width="25">&nbsp;&nbsp;
+<img alt="npm" src="./images/Web/7.npm.svg" width="25">&nbsp;&nbsp;
+<img alt= "jest" src="./images/Web/8.jest.svg" width="25" height="25">&nbsp;&nbsp;
+<img alt= "testing-library" src="./images/Web/9.testinglibrary.svg" width="25" height="25">&nbsp;&nbsp;
 
 Machine Learning | Data Science:
 
-<img alt= "vsc" src="./images/ML/1.jupyter.svg" width="25">&nbsp;&nbsp;
-<img alt= "vsc" src="./images/ML/2.python.svg" width="25">&nbsp;&nbsp;
-<img alt= "vsc" src="./images/ML/3.numpy.svg" width="25">&nbsp;&nbsp;
-<img alt= "vsc" src="./images/ML/4.scikitlearn.svg" width="25">&nbsp;&nbsp;
-<img alt= "vsc" src="./images/ML/5.scipy.svg" width="25">&nbsp;&nbsp;
-<img alt= "vsc" src="./images/ML/6.postgresql.svg" width="25">&nbsp;&nbsp;
-<img alt= "vsc" src="./images/ML/7.tensorflow.svg" width="25">&nbsp;&nbsp;
-<img alt= "vsc" src="./images/ML/8.pytorch.svg" width="25">&nbsp;&nbsp;
+<img alt= "jupyter" src="./images/ML/1.jupyter.svg" width="25">&nbsp;&nbsp;
+<img alt= "python" src="./images/ML/2.python.svg" width="25">&nbsp;&nbsp;
+<img alt= "numpy" src="./images/ML/3.numpy.svg" width="25">&nbsp;&nbsp;
+<img alt= "scikitlearn" src="./images/ML/4.scikitlearn.svg" width="25">&nbsp;&nbsp;
+<img alt= "scipy" src="./images/ML/5.scipy.svg" width="25">&nbsp;&nbsp;
+<img alt= "postgresql" src="./images/ML/6.postgresql.svg" width="25">&nbsp;&nbsp;
+<img alt= "tensorflow" src="./images/ML/7.tensorflow.svg" width="25">&nbsp;&nbsp;
+<img alt= "pytorch" src="./images/ML/8.pytorch.svg" width="25">&nbsp;&nbsp;
