@@ -29,7 +29,7 @@ Be Humble, Stay Curious
 
 ### Lanugage and Tools:
 
-Web Dev:
+Web Development:
 
 <img alt= "vsc" src="./images/Web/1.vsc.svg" width="25">&nbsp;&nbsp;
 <img alt="html5" src="./images/Web/2.html5.svg" width="25">&nbsp;&nbsp;
