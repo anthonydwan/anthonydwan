@@ -7,16 +7,19 @@
 - I'm currently learning React
 - I'm currently finishing my Master of Data Science @ USyd
 - Open to On-site (Sydney) and Remote positions
-- 2022 Goals
+
+
+```diff
+Be Humble, Stay Curious
+```
+
+#### 2022 Goals
+
 - Become Full-Stack
 - Start contributing to Open Source
 - Launch one large project
 - Learn Typescript
 - Personal Portfolio - Coming Soon!
-
-```diff
-Be Humble, Stay Curious
-```
 
 <hr>
 
