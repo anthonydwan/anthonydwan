@@ -25,8 +25,8 @@ Be Humble, Stay Curious
 
 ### Connect with me:
 
-<img alt= "linkedin" src="./images/linkedin.svg" width="25">&nbsp;&nbsp;
-<img alt="twitter" src="./images/twitter.svg" width="25">
+[<img alt= "linkedin" src="./images/linkedin.svg" width="25">](https://www.linkedin.com/in/anthony-w-230452a2/)&nbsp;&nbsp;
+[<img alt="twitter" src="./images/twitter.svg" width="25">](https://twitter.com/anthonydwan)
 
 <hr>
 
