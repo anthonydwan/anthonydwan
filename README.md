@@ -8,7 +8,6 @@
 - I'm currently finishing my Master of Data Science @ USyd
 - Open to On-site (Sydney) and Remote positions
 
-
 ```diff
 Be Humble, Stay Curious
 ```
@@ -55,3 +54,9 @@ Machine Learning | Data Science:
 <img alt= "postgresql" src="./images/ML/6.postgresql.svg" width="25">&nbsp;&nbsp;
 <img alt= "tensorflow" src="./images/ML/7.tensorflow.svg" width="25">&nbsp;&nbsp;
 <img alt= "pytorch" src="./images/ML/8.pytorch.svg" width="25">&nbsp;&nbsp;
+
+<hr>
+
+<br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonydwan&hide=stars&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+<br> [![Spotify](https://spotify-now-playing-anthonydwan.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&background_color=020d0f)](https://open.spotify.com/user/omnitenebris)
