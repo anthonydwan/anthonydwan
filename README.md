@@ -59,4 +59,4 @@ Machine Learning | Data Science:
 
 <br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonydwan&hide=stars&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-<br> [![Spotify](https://spotify-now-playing-anthonydwan.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&background_color=020d0f)](https://open.spotify.com/user/omnitenebris)
+[![Spotify](https://spotify-now-playing-anthonydwan.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&background_color=020d0f)](https://open.spotify.com/user/omnitenebris)
