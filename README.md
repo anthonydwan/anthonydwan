@@ -37,11 +37,12 @@ Web Development:
 <img alt="html5" src="./images/Web/2.html5.svg" width="25">&nbsp;&nbsp;
 <img alt= "css3" src="./images/Web/3.css3.svg" width="25">&nbsp;&nbsp;
 <img alt="javscript" src="./images/Web/4.javascript.svg" width="25">&nbsp;&nbsp;
-<img alt= "react" src="./images/Web/5.react.svg" width="25">&nbsp;&nbsp;
-<img alt= "git" src="./images/Web/6.git.svg" width="25">&nbsp;&nbsp;
-<img alt="npm" src="./images/Web/7.npm.svg" width="25">&nbsp;&nbsp;
-<img alt= "jest" src="./images/Web/8.jest.svg" width="25" height="25">&nbsp;&nbsp;
-<img alt= "testing-library" src="./images/Web/9.testinglibrary.svg" width="25" height="25">&nbsp;&nbsp;
+<img alt="typescript" src="./images/Web/5.typescript.svg" width="25">&nbsp;&nbsp;
+<img alt= "react" src="./images/Web/6.react.svg" width="25">&nbsp;&nbsp;
+<img alt= "git" src="./images/Web/7.git.svg" width="25">&nbsp;&nbsp;
+<img alt="npm" src="./images/Web/8.npm.svg" width="25">&nbsp;&nbsp;
+<img alt= "jest" src="./images/Web/9.jest.svg" width="25" height="25">&nbsp;&nbsp;
+<img alt= "testing-library" src="./images/Web/10.testinglibrary.svg" width="25" height="25">&nbsp;&nbsp;
 
 Machine Learning | Data Science:
 
@@ -58,5 +59,7 @@ Machine Learning | Data Science:
 <hr>
 
 <br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonydwan&hide=stars&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gotham&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Spotify](https://spotify-now-playing-anthonydwan.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&background_color=020d0f)](https://open.spotify.com/user/anthonydwan)
