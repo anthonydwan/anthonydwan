@@ -5,7 +5,7 @@
 ### Nice to meet you, I'm Anthony <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" height="28" alt="handwave" />
 
 - I'm currently learning MERN stack and Typescript
-- I'm currently finishing my Master of Data Science @ USyd
+- I'm currently finishing my Master of Data Science @ University of Sydney
 - Open to On-site (Sydney) and Remote positions
 
 ```diff
@@ -17,6 +17,7 @@ Be Humble, Stay Curious
 - Become Full-Stack
 - Start contributing to Open Source
 - Launch one large project
+- Launch an AI powered web project
 - Personal Portfolio - Coming Soon!
 
 <hr>
