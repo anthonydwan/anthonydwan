@@ -4,9 +4,10 @@
 
 ### Nice to meet you, I'm Anthony <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" height="28" alt="handwave" />
 
-- I'm currently learning MERN stack and Typescript
-- I'm currently finishing my Master of Data Science @ University of Sydney
-- Open to On-site (Sydney) and Remote positions
+- :computer: I'm currently learning MERN stack and Typescript
+- :books: I'm currently finishing my Master of Data Science @ University of Sydney
+- :raised_hands: Open to On-site (Sydney) and Remote positions
+- :saxophone: I listen to Cafe Jazz when I code
 
 ```diff
 Be Humble, Stay Curious
@@ -14,11 +15,11 @@ Be Humble, Stay Curious
 
 #### 2022 Goals
 
-- Become Full-Stack
-- Start contributing to Open Source
-- Launch one large project
-- Launch an AI powered web project
-- Personal Portfolio - Coming Soon!
+- :muscle: Become Full-Stack
+- :rocket: Start contributing to Open Source
+- :zap: Launch one large project
+- :space_invader: Launch an AI powered web project
+- :construction: Personal Portfolio - Coming Soon!
 
 <hr>
 
