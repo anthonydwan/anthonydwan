@@ -15,7 +15,7 @@ Be Humble, Stay Curious
 
 #### 2022 Goals
 
-- :muscle: Become Full-Stack
+- :muscle: Complete Full-Stack
 - :rocket: Start contributing to Open Source
 - :zap: Launch one large project
 - :space_invader: Launch an AI powered web project
