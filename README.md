@@ -38,7 +38,6 @@ Web Development:
 <img alt="html5" src="./images/Web/2.html5.svg" width="25">&nbsp;&nbsp;
 <img alt= "css3" src="./images/Web/3.css3.svg" width="25">&nbsp;&nbsp;
 <img alt="javscript" src="./images/Web/4.javascript.svg" width="25">&nbsp;&nbsp;
-<img alt="typescript" src="./images/Web/5.typescript.svg" width="25">&nbsp;&nbsp;
 <img alt= "react" src="./images/Web/6.react.svg" width="25">&nbsp;&nbsp;
 <img alt= "git" src="./images/Web/7.git.svg" width="25">&nbsp;&nbsp;
 <img alt="npm" src="./images/Web/8.npm.svg" width="25">&nbsp;&nbsp;

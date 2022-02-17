@@ -3,7 +3,7 @@
 			<defs>
 		<style>
 			.logo {
-				animation: logo 0.7s forwards 2.75s
+				animation: logo 0.7s forwards 2.5s
 			}
 
 			@keyframes logo {
