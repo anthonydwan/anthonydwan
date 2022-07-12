@@ -5,8 +5,8 @@
 ### Nice to meet you, I'm Anthony <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" height="28" alt="handwave" />
 
 - :computer: I'm currently learning MERN stack and Typescript
-- :books: I'm currently finishing my Master of Data Science @ University of Sydney
-- :raised_hands: Open to On-site (Sydney) and Remote positions
+- :books: I studied Master of Data Science @ University of Sydney
+- :raised_hands: Currently a junior SWE @ [Kinde](https://www.kinde.com)
 - :saxophone: I listen to Cafe Jazz when I code
 
 ```diff
