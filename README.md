@@ -15,10 +15,9 @@ Be Humble, Stay Curious
 
 #### 2022 Goals
 
-- :muscle: Complete Full-Stack
+- :muscle: Golang + Java
 - :rocket: Start contributing to Open Source
 - :zap: Launch one large project
-- :space_invader: Launch an AI powered web project
 - :construction: Personal Portfolio - Coming Soon!
 
 <hr>
