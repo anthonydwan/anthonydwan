@@ -6,7 +6,7 @@
 
 - :computer: I'm currently learning MERN stack and Typescript
 - :books: I studied Master of Data Science @ University of Sydney
-- :raised_hands: Currently a junior SWE @ [Kinde](https://www.kinde.com)
+- :raised_hands: Currently SDE I @ AWS
 - :saxophone: I listen to Cafe Jazz when I code
 
 ```diff
