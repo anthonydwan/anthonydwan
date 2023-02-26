@@ -4,7 +4,7 @@
 
 ### Nice to meet you, I'm Anthony <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" height="28" alt="handwave" />
 
-- :computer: I'm currently learning MERN stack and Typescript
+- :computer: I'm currently learning Java, Ruby and Linux OS.
 - :books: I studied Master of Data Science @ University of Sydney
 - :raised_hands: Currently SDE I @ AWS
 - :saxophone: I listen to Cafe Jazz when I code
@@ -13,11 +13,11 @@
 Be Humble, Stay Curious
 ```
 
-#### 2022 Goals
+#### 2023 Goals
 
-- :muscle: Golang + Java
+- :muscle: Get better at software designs
 - :rocket: Start contributing to Open Source
-- :zap: Launch one large project
+- :zap: Write cleaner code
 - :construction: Personal Portfolio - Coming Soon!
 
 <hr>
