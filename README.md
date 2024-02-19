@@ -13,7 +13,7 @@
 Be Humble, Stay Curious
 ```
 
-#### 2023 Goals
+#### 2024 Goals
 
 - :muscle: Get better at software designs
 - :rocket: Start contributing to Open Source
